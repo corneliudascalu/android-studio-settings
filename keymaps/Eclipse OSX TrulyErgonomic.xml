@@ -73,6 +73,7 @@
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="shift meta enter" />
+    <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
