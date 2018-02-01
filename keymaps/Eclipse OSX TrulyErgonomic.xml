@@ -165,6 +165,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt n" />
     <keyboard-shortcut first-keystroke="shift meta alt n" />
   </action>
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="shift alt p" />
     <keyboard-shortcut first-keystroke="meta i" />
@@ -222,6 +225,11 @@
     <keyboard-shortcut first-keystroke="ctrl 1" />
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="shift alt s" />
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -237,4 +245,5 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="tasks.switch" />
 </keymap>
