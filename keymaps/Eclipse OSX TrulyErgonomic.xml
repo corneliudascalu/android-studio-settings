@@ -128,12 +128,8 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
-  <action id="FindUsagesInFile">
-    <keyboard-shortcut first-keystroke="shift ctrl g" />
-    <keyboard-shortcut first-keystroke="shift meta g" />
-  </action>
   <action id="Generate">
-    <keyboard-shortcut first-keystroke="alt help" />
+    <keyboard-shortcut first-keystroke="shift alt g" />
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
@@ -219,6 +215,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="shift meta f" />
   </action>
+  <action id="RerunTests" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift alt j" />
@@ -246,5 +243,6 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="hg4idea.QGotoFromPatches" />
   <action id="tasks.switch" />
 </keymap>
