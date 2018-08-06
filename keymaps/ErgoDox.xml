@@ -1,4 +1,4 @@
-<keymap version="1" name="Eclipse copy" parent="Eclipse">
+<keymap version="1" name="ErgoDox" parent="Eclipse">
   <action id="ActivateAndroidToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
@@ -37,21 +37,33 @@
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="EditorMatchBrace" />
   <action id="EditorSplitLine" />
   <action id="FileChooser.GotoHome" />
   <action id="FindPrevious" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="shift alt g" />
+  </action>
   <action id="GotoBookmark1" />
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
   <action id="Groovy.Shell.Execute" />
+  <action id="ImplementMethods">
+    <keyboard-shortcut first-keystroke="shift alt i" />
+  </action>
+  <action id="Inline" />
   <action id="IntroduceConstant">
-    <keyboard-shortcut first-keystroke="ctrl alt c" />
     <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
   <action id="IntroduceField">
-    <keyboard-shortcut first-keystroke="ctrl alt f" />
     <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="IntroduceParameter">
+    <keyboard-shortcut first-keystroke="shift alt p" />
+  </action>
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
   <action id="MembersPullUp">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
@@ -65,6 +77,7 @@
   <action id="RearrangeCode">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
+  <action id="RerunTests" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift alt j" />
@@ -99,6 +112,8 @@
     <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
   <action id="ViewSource" />
+  <action id="hg4idea.QGotoFromPatches" />
+  <action id="hg4idea.QPushAction" />
   <action id="tasks.switch" />
   <action id="tasks.switch.toolbar" />
 </keymap>
