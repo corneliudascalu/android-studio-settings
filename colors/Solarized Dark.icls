@@ -1689,6 +1689,11 @@
         <option name="FOREGROUND" value="cb4b16" />
       </value>
     </option>
+    <option name="KOTLIN_SMART_CAST_VALUE">
+      <value>
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="KOTLIN_STRING">
       <value>
         <option name="FOREGROUND" value="2aa198" />
