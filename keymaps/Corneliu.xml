@@ -2,17 +2,20 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="DuplicatesForm.SendToLeft" />
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="EditorMatchBrace" />
   <action id="EditorSplitLine" />
+  <action id="FileChooser.GotoHome" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="shift alt g" />
   </action>
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
+  <action id="GotoBookmark1" />
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="shift alt t" />
   </action>
@@ -20,6 +23,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="RerunTests" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="shift alt s" />
