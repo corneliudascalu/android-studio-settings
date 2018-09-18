@@ -1,9 +1,14 @@
 <keymap version="1" name="Corneliu" parent="Eclipse">
   <action id="AddToFavoritesPopup" />
+  <action id="AndroidConnectDebuggerAction">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
   <action id="ChangeSignature" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="Diff.ShowSettingsPopup" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
