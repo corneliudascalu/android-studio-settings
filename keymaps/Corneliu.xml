@@ -1,4 +1,6 @@
 <keymap version="1" name="Corneliu" parent="Eclipse">
+  <action id="AddToFavoritesPopup" />
+  <action id="ChangeSignature" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
@@ -16,8 +18,21 @@
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="GotoBookmark1" />
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="ImplementMethods" />
+  <action id="IntroduceConstant">
+    <keyboard-shortcut first-keystroke="shift alt c" />
+  </action>
+  <action id="IntroduceField">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="IntroduceParameter">
+    <keyboard-shortcut first-keystroke="shift alt p" />
   </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
@@ -32,5 +47,6 @@
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
   <action id="hg4idea.QGotoFromPatches" />
+  <action id="hg4idea.QPushAction" />
   <action id="tasks.switch" />
 </keymap>
