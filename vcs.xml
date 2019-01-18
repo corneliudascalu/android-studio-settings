@@ -10,8 +10,12 @@
           <option name="url" value="git@github.com:eclipse/leshan.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/corneliudascalu/flutter-chat.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/repo" />
+    <option name="cloneParentDir" value="$USER_HOME$/code" />
   </component>
 </application>
