@@ -3,7 +3,7 @@
   <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="PxPlus IBM VGA8" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
@@ -15,7 +15,7 @@
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_SIZE" value="4" />
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="0.6" />
   <colors>
