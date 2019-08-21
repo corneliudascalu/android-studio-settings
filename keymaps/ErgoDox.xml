@@ -107,6 +107,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="UpdateRunningApplication" />
   <action id="Vcs.ChangesView">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
@@ -115,6 +116,12 @@
     <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
   <action id="ViewSource" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
   <action id="hg4idea.QGotoFromPatches" />
   <action id="hg4idea.QPushAction" />
   <action id="tasks.switch" />
