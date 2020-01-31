@@ -4,12 +4,12 @@
     <property name="created">2019-06-13T13:34:09</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.4.1.0</property>
-    <property name="modified">2019-11-27T08:32:51</property>
+    <property name="modified">2020-01-31T15:37:51</property>
     <property name="originalScheme">Nord</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="28" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono Medium" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="a3be8c" />
