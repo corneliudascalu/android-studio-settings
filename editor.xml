@@ -21,8 +21,10 @@
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="28" />
+    <option name="FONT_SIZE" value="30" />
+    <option name="FONT_FAMILY" value="JetBrains Mono Medium" />
     <option name="FONT_SCALE" value="2.0" />
+    <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
