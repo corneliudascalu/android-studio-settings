@@ -4,15 +4,15 @@
     <property name="created">2018-01-25T09:55:13</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.0.7</property>
-    <property name="modified">2021-01-26T12:00:07</property>
+    <property name="modified">2021-01-28T17:11:42</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono Medium" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
