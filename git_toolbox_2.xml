@@ -3,6 +3,20 @@
     <option name="absoluteDateTimeStyle" value="DMY_TIME" />
     <option name="blameInlineAuthorNameType" value="FIRSTNAME" />
     <option name="blameStatusAuthorNameType" value="FULL" />
+    <option name="extrasConfig">
+      <ExtrasConfig>
+        <option name="autoFetchEnabledOverride">
+          <BoolConfigOverride>
+            <option name="enabled" value="true" />
+          </BoolConfigOverride>
+        </option>
+        <option name="autoFetchOnBranchSwitchOverride">
+          <BoolConfigOverride>
+            <option name="enabled" value="true" />
+          </BoolConfigOverride>
+        </option>
+      </ExtrasConfig>
+    </option>
     <option name="previousVersionMigrated" value="true" />
     <option name="version" value="2" />
   </component>
