@@ -7,11 +7,25 @@
       <ExtrasConfig>
         <option name="autoFetchEnabledOverride">
           <BoolConfigOverride>
+            <option name="applied">
+              <list>
+                <AppliedConfigOverride>
+                  <option name="projectPath" value="C:\code\bread-calc" />
+                </AppliedConfigOverride>
+              </list>
+            </option>
             <option name="enabled" value="true" />
           </BoolConfigOverride>
         </option>
         <option name="autoFetchOnBranchSwitchOverride">
           <BoolConfigOverride>
+            <option name="applied">
+              <list>
+                <AppliedConfigOverride>
+                  <option name="projectPath" value="C:\code\bread-calc" />
+                </AppliedConfigOverride>
+              </list>
+            </option>
             <option name="enabled" value="true" />
           </BoolConfigOverride>
         </option>
