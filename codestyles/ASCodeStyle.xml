@@ -35,11 +35,6 @@
     <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
     <option name="JD_ADD_BLANK_AFTER_DESCRIPTION" value="false" />
   </JavaCodeStyleSettings>
-  <JetCodeStyleSettings>
-    <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="2147483647" />
-    <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="2147483647" />
-    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
-  </JetCodeStyleSettings>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="2" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
@@ -477,11 +472,5 @@
         </section>
       </rules>
     </arrangement>
-  </codeStyleSettings>
-  <codeStyleSettings language="kotlin">
-    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
