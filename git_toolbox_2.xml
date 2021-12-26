@@ -1,37 +1,11 @@
 <application>
   <component name="GitToolBoxAppSettings2">
     <option name="absoluteDateTimeStyle" value="DMY_TIME" />
+    <option name="autoFetchEnabled" value="false" />
+    <option name="autoFetchOnBranchSwitch" value="false" />
     <option name="blameInlineAuthorNameType" value="FIRSTNAME" />
     <option name="blameStatusAuthorNameType" value="FULL" />
-    <option name="extrasConfig">
-      <ExtrasConfig>
-        <option name="autoFetchEnabledOverride">
-          <BoolConfigOverride>
-            <option name="applied">
-              <list>
-                <AppliedConfigOverride>
-                  <option name="projectPath" value="C:\code\bread-calc" />
-                </AppliedConfigOverride>
-              </list>
-            </option>
-            <option name="enabled" value="true" />
-          </BoolConfigOverride>
-        </option>
-        <option name="autoFetchOnBranchSwitchOverride">
-          <BoolConfigOverride>
-            <option name="applied">
-              <list>
-                <AppliedConfigOverride>
-                  <option name="projectPath" value="C:\code\bread-calc" />
-                </AppliedConfigOverride>
-              </list>
-            </option>
-            <option name="enabled" value="true" />
-          </BoolConfigOverride>
-        </option>
-      </ExtrasConfig>
-    </option>
     <option name="previousVersionMigrated" value="true" />
-    <option name="version" value="2" />
+    <option name="version" value="5" />
   </component>
 </application>
