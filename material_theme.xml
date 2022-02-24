@@ -5,6 +5,7 @@
     <option name="compactTables" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="premium" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="darkTitleBar" value="true" />
@@ -22,6 +23,6 @@
     <option name="accentColor" value="009688" />
     <option name="highlightColor" value="e57373" />
     <option name="userId" value="-2591699d:16b506dd7e4:-7fff" />
-    <option name="version" value="5.5.0" />
+    <option name="version" value="6.7.2" />
   </component>
 </application>
