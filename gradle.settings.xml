@@ -1,5 +1,5 @@
 <application>
   <component name="GradleSystemSettings">
-    <option name="serviceDirectoryPath" value="C:/sdk/gradle" />
+    <option name="serviceDirectoryPath" value="$USER_HOME$/.sdkman/candidates/gradle/current" />
   </component>
 </application>
