@@ -1,10 +1,8 @@
 <keymap version="1" name="ErgoDox" parent="Eclipse">
-  <action id="ActivateAndroidToolWindow">
-    <keyboard-shortcut first-keystroke="alt 3" />
-  </action>
   <action id="ActivateBuildToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="ActivateFindToolWindow" />
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
@@ -129,6 +127,7 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="context.load" />
   <action id="hg4idea.QGotoFromPatches" />
   <action id="hg4idea.QPushAction" />
   <action id="tasks.switch" />

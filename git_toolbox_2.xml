@@ -3,9 +3,15 @@
     <option name="absoluteDateTimeStyle" value="DMY_TIME" />
     <option name="autoFetchEnabled" value="false" />
     <option name="autoFetchOnBranchSwitch" value="false" />
+    <option name="blameInlayConfig">
+      <InlayBlameConfig>
+        <option name="shortenToFitViewport" value="true" />
+      </InlayBlameConfig>
+    </option>
     <option name="blameInlineAuthorNameType" value="FIRSTNAME" />
     <option name="blameStatusAuthorNameType" value="FULL" />
     <option name="previousVersionMigrated" value="true" />
-    <option name="version" value="5" />
+    <option name="showBlameWidget" value="false" />
+    <option name="version" value="6" />
   </component>
 </application>
