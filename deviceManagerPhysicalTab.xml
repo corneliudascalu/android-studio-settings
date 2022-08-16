@@ -4,22 +4,11 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="95MAY0V4NY" />
-          </Key>
-        </key>
-        <name value="Google Pixel 3a" />
-        <target value="Android API 32" />
-        <api value="32" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
             <type value="DOMAIN_NAME" />
-            <value value="adb-95MAY0V4NY-llbDx7._adb-tls-connect._tcp." />
+            <value value="adb-26251JEGR13133-601s6Q._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <name value="Google Pixel 3a" />
+        <name value="Google Pixel 6a" />
         <target value="Android API 32" />
         <api value="32" />
       </PhysicalDevice>
