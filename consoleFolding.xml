@@ -1,0 +1,9 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="2022-09-19 18:27:21.843  7353-7545  CameraStateMachine      com.qredoapp.debug                   D  New public camera state CameraState{type=CLOSED, error=null} from CLOSED and null" />
+      </list>
+    </option>
+  </component>
+</application>
