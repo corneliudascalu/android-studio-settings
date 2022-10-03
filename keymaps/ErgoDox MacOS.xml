@@ -196,6 +196,9 @@
   <action id="MethodUp">
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
