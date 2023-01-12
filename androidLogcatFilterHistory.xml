@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:mine HRT feature" />
         <option value="package:mine" />
         <option value="package:mine message" />
         <option value="package:mine " />
