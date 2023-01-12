@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine featureFlag" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine featureFlag" />
+        <option value="package:mine hrt" />
         <option value="package:mine HRT feature" />
         <option value="package:mine" />
         <option value="package:mine message" />
