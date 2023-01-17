@@ -4,8 +4,8 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="26251JEGR13133" />
+            <type value="DOMAIN_NAME" />
+            <value value="adb-26251JEGR13133-601s6Q._adb-tls-connect._tcp." />
           </Key>
         </key>
         <name value="Google Pixel 6a" />
@@ -15,12 +15,12 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-26251JEGR13133-601s6Q._adb-tls-connect._tcp." />
+            <type value="SERIAL_NUMBER" />
+            <value value="26251JEGR13133" />
           </Key>
         </key>
         <name value="Google Pixel 6a" />
-        <target value="Android Tiramisu" />
+        <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
