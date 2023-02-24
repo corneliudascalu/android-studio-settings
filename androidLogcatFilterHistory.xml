@@ -4,10 +4,10 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine http" />
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine wallet" />
         <option value="package:mine query" />
-        <option value="package:mine" />
         <option value="package:mine security" />
         <option value="package:mine featureFlag" />
         <option value="package:mine hrt" />
