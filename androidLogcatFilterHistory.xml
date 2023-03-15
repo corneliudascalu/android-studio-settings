@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
         <option value="firebase" />
+        <option value="package:mine" />
         <option value="package:mine http" />
         <option value="package:mine https" />
         <option value="package:mine wallet" />
