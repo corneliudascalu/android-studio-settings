@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine http" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="firebase" />
         <option value="package:mine http" />
         <option value="package:mine https" />
-        <option value="package:mine " />
-        <option value="package:mine" />
         <option value="package:mine wallet" />
         <option value="package:mine query" />
         <option value="package:mine security" />
