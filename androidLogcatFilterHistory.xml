@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine http" />
+        <option value="package:mine " />
         <option value="firebase" />
         <option value="package:mine" />
         <option value="package:mine https" />
