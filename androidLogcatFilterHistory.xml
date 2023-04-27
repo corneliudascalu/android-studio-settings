@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine http" />
+    <option name="mostRecentlyUsed" value="package:mine dato" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine dato" />
         <option value="package:mine http" />
         <option value="package:mine " />
         <option value="package:mine hrt" />
@@ -15,7 +16,6 @@
         <option value="package:mine featureFlag" />
         <option value="package:mine HRT feature" />
         <option value="package:mine message" />
-        <option value="package:mine dato" />
         <option value="package:mine tag:DatoStrings " />
         <option value="package:mine auto" />
         <option value="package:mine ScanConnect" />
