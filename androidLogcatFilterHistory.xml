@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="http" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
+        <option value="http" />
         <option value="package:mine http" />
+        <option value="package:mine " />
         <option value="package:mine h" />
         <option value="package:mine hrt" />
         <option value="package:mine wallet" />
